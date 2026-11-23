@@ -29,6 +29,7 @@ dengue_dashboard/
 ├── packages.txt                Linux system package for LightGBM (used by Streamlit Cloud)
 ├── .streamlit/config.toml      Streamlit settings (upload size limit, no usage stats)
 ├── README.md
+├── LICENSE                     MIT licence (code)
 ├── data/
 │   ├── srilanka_weekly_data.rda    Original data from the denguedatahub R package
 │   └── sl_dengue_weekly.csv        The same data as CSV (used by the dashboard)
@@ -257,4 +258,8 @@ a "wake up" button and waits about a minute.
 server. The bundled model and models trained in the session are used without any upload.
 To turn upload on for local use only, set `ALLOW_PKL_UPLOAD=1`
 (`run_dashboard.bat` does this). Do not set it on a public deployment.
+
+## 9. Licence
+The code is released under the [MIT License](LICENSE). The data in `data/` comes from the
+`denguedatahub` R package and stays under its own licence (GPL-3); see section 7.
 
