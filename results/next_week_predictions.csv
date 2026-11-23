@@ -1,0 +1,26 @@
+district,year,week,cases,predicted_risk,p_high
+Colombo,2025,52,340.0,High,0.87
+Gampaha,2025,52,214.0,High,0.937
+Kalutara,2025,52,85.0,High,0.59
+Galle,2025,52,82.0,High,0.873
+Jaffna,2025,52,76.0,High,0.646
+Matara,2025,52,44.0,High,0.676
+Hambantota,2025,52,42.0,High,0.629
+Monaragala,2025,52,24.0,High,0.597
+Polonnaruwa,2025,52,14.0,High,0.569
+Kilinochchi,2025,52,5.0,High,0.77
+Mullaitivu,2025,52,3.0,High,0.555
+Kandy,2025,52,85.0,Medium,0.1
+Ratnapura,2025,52,60.0,Medium,0.271
+Kegalle,2025,52,37.0,Medium,0.223
+Kurunegala,2025,52,32.0,Medium,0.056
+Badulla,2025,52,25.0,Medium,0.283
+Puttalam,2025,52,22.0,Medium,0.167
+Batticaloa,2025,52,20.0,Medium,0.051
+Ampara,2025,52,18.0,Medium,0.229
+Matale,2025,52,16.0,Medium,0.45
+Anuradhapura,2025,52,13.0,Medium,0.139
+Trincomalee,2025,52,9.0,Medium,0.302
+Nuwara Eliya,2025,52,7.0,Medium,0.19
+Vavuniya,2025,52,3.0,Medium,0.021
+Mannar,2025,52,0.0,Medium,0.349

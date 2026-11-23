@@ -1,0 +1,5 @@
+Approach,Accuracy,Macro F1,Precision (macro),Recall (macro),High-risk recall,Train time (s),MAE (cases)
+ARIMA only,0.7235,0.6463,0.6863,0.6267,0.6403,3.0061,9.5191
+Random Forest only,0.6513,0.6111,0.6089,0.6295,0.5396,2.4687,
+Hybrid 1: RF + ARIMA feature,0.6493,0.6088,0.6055,0.6284,0.5396,5.7606,
+Hybrid 2: ARIMA + RF residuals,0.7258,0.6476,0.697,0.6205,0.591,9.8572,9.3404

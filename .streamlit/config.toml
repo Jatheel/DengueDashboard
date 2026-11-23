@@ -1,0 +1,6 @@
+[server]
+# CSV uploads only need a couple of MB (the full dataset is 1.2 MB).
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
